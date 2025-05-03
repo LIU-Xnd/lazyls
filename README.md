@@ -11,9 +11,7 @@ After downloading, add this to your `.bashrc`:
 # Replace this path to where this project is placed
 export lz_path_="$HOME/lazyls"
 
-export lz(){
-    source $lz_path_/src/lazyls.sh
-}
+function lz () { source "$lz_path_/src/lazyls.sh"; }
 ```
 
 ## Get Started
