@@ -1,5 +1,9 @@
 # Lazyls - A light weight navigator
 
+## Demo
+
+![demo](img/lazyls_demo.gif)
+
 ## Install
 
 ```bash
